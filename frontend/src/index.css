@@ -1,0 +1,31 @@
+/* src/index.css */
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+/* Quan trọng: Reset margin/padding và set full chiều cao */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Chặn thanh cuộn thừa của trình duyệt */
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+  display: block; /* Vite mặc định để flex/center ở đây, cần sửa lại block hoặc width 100% */
+  max-width: none; /* Quan trọng: Gỡ bỏ giới hạn chiều rộng mặc định của Vite */
+  margin: 0;
+  padding: 0;
+  text-align: left; /* Gỡ bỏ căn giữa mặc định */
+}

@@ -1,0 +1,165 @@
+d:\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.deps.json
+d:\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.dll
+d:\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+d:\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+d:\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+d:\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.AssemblyReference.cache
+d:\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+d:\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfoInputs.cache
+d:\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfo.cs
+d:\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.CoreCompileInputs.cache
+d:\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkSho.364BAE3A.Up2Date
+d:\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.dll
+d:\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\refint\DrinkShop.BusinessLogic.dll
+d:\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+d:\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\ref\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.deps.json
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkSho.364BAE3A.Up2Date
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\refint\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\ref\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.deps.json
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfo.cs
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkSho.364BAE3A.Up2Date
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\refint\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\Admin\Music\DrinkShop\DrinkShop.BusinessLogic\obj\Debug\net9.0\ref\DrinkShop.BusinessLogic.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.deps.json
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfo.cs
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkSho.364BAE3A.Up2Date
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\obj\Debug\net9.0\refint\DrinkShop.BusinessLogic.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.BusinessLogic\obj\Debug\net9.0\ref\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.deps.json
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkSho.364BAE3A.Up2Date
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\obj\Debug\net9.0\refint\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.BusinessLogic\obj\Debug\net9.0\ref\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.deps.json
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkSho.364BAE3A.Up2Date
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\obj\Debug\net9.0\refint\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.BusinessLogic\obj\Debug\net9.0\ref\DrinkShop.BusinessLogic.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.deps.json
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfo.cs
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkSho.364BAE3A.Up2Date
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\obj\Debug\net9.0\refint\DrinkShop.BusinessLogic.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.BusinessLogic\obj\Debug\net9.0\ref\DrinkShop.BusinessLogic.dll
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.deps.json
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.dll
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.AssemblyReference.cache
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfoInputs.cache
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfo.cs
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkSho.364BAE3A.Up2Date
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.dll
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\obj\Debug\net9.0\refint\DrinkShop.BusinessLogic.dll
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+D:\DrinkShop Chuẩn 104%\DrinkShop.BusinessLogic\obj\Debug\net9.0\ref\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\obj\Debug\net9.0\refint\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.deps.json
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkSho.364BAE3A.Up2Date
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.BusinessLogic\obj\Debug\net9.0\ref\DrinkShop.BusinessLogic.dll
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.deps.json
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.dll
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.AssemblyReference.cache
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfoInputs.cache
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfo.cs
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkSho.364BAE3A.Up2Date
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.dll
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\refint\DrinkShop.BusinessLogic.dll
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+D:\DrinkShop Chuẩn 106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\ref\DrinkShop.BusinessLogic.dll
+D:\DrinkShop106%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.deps.json
+D:\DrinkShop106%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.dll
+D:\DrinkShop106%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+D:\DrinkShop106%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+D:\DrinkShop106%\DrinkShop.BusinessLogic\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+D:\DrinkShop106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.AssemblyReference.cache
+D:\DrinkShop106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrinkShop106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfoInputs.cache
+D:\DrinkShop106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.AssemblyInfo.cs
+D:\DrinkShop106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\DrinkShop106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkSho.364BAE3A.Up2Date
+D:\DrinkShop106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.dll
+D:\DrinkShop106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\refint\DrinkShop.BusinessLogic.dll
+D:\DrinkShop106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\DrinkShop.BusinessLogic.pdb
+D:\DrinkShop106%\DrinkShop.BusinessLogic\obj\Debug\net9.0\ref\DrinkShop.BusinessLogic.dll

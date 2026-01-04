@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DrinkShop.Application",
+    "\\DrinkShop.Domain",
+    "\\DrinkShop.Infrastructure",
+    "\\DrinkShop.WebApi"
+  ],
+  "PreviewInSolutionExplorer": false
+}

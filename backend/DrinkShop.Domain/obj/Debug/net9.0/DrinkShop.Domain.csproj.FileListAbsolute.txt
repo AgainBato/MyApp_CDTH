@@ -1,0 +1,34 @@
+D:\DrinkShop107\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.deps.json
+D:\DrinkShop107\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.dll
+D:\DrinkShop107\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.pdb
+D:\DrinkShop107\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrinkShop107\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.AssemblyInfoInputs.cache
+D:\DrinkShop107\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.AssemblyInfo.cs
+D:\DrinkShop107\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.csproj.CoreCompileInputs.cache
+D:\DrinkShop107\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.dll
+D:\DrinkShop107\DrinkShop.Domain\obj\Debug\net9.0\refint\DrinkShop.Domain.dll
+D:\DrinkShop107\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.pdb
+D:\DrinkShop107\DrinkShop.Domain\obj\Debug\net9.0\ref\DrinkShop.Domain.dll
+D:\DrinkShop10\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.deps.json
+D:\DrinkShop10\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.dll
+D:\DrinkShop10\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.pdb
+D:\DrinkShop10\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrinkShop10\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.AssemblyInfoInputs.cache
+D:\DrinkShop10\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.AssemblyInfo.cs
+D:\DrinkShop10\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.csproj.CoreCompileInputs.cache
+D:\DrinkShop10\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.dll
+D:\DrinkShop10\DrinkShop.Domain\obj\Debug\net9.0\refint\DrinkShop.Domain.dll
+D:\DrinkShop10\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.pdb
+D:\DrinkShop10\DrinkShop.Domain\obj\Debug\net9.0\ref\DrinkShop.Domain.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.deps.json
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.AssemblyInfoInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.AssemblyInfo.cs
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.sourcelink.json
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\refint\DrinkShop.Domain.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\ref\DrinkShop.Domain.dll

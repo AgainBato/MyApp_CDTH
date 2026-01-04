@@ -1,0 +1,154 @@
+d:\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.deps.json
+d:\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.runtimeconfig.json
+d:\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+d:\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+d:\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.AssemblyReference.cache
+d:\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+d:\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfoInputs.cache
+d:\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfo.cs
+d:\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.CoreCompileInputs.cache
+d:\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.dll
+d:\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\refint\DrinkShop.DataAccess.dll
+d:\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.pdb
+d:\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.genruntimeconfig.cache
+d:\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\ref\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.deps.json
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.runtimeconfig.json
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\refint\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.genruntimeconfig.cache
+C:\Users\Admin\Downloads\DrinkShop\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\ref\DrinkShop.DataAccess.dll
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.deps.json
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.runtimeconfig.json
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\refint\DrinkShop.DataAccess.dll
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.genruntimeconfig.cache
+C:\Users\Admin\Music\DrinkShop\DrinkShop.DataAccess\obj\Debug\net9.0\ref\DrinkShop.DataAccess.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.deps.json
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.runtimeconfig.json
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfo.cs
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\obj\Debug\net9.0\refint\DrinkShop.DataAccess.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.genruntimeconfig.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 100%\DrinkShop.DataAccess\obj\Debug\net9.0\ref\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.deps.json
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.runtimeconfig.json
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\obj\Debug\net9.0\refint\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.genruntimeconfig.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 101%\DrinkShop.DataAccess\obj\Debug\net9.0\ref\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.deps.json
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.runtimeconfig.json
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\obj\Debug\net9.0\refint\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.genruntimeconfig.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 102%\DrinkShop.DataAccess\obj\Debug\net9.0\ref\DrinkShop.DataAccess.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.deps.json
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.runtimeconfig.json
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfo.cs
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\obj\Debug\net9.0\refint\DrinkShop.DataAccess.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.genruntimeconfig.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop Chuẩn 103%\DrinkShop.DataAccess\obj\Debug\net9.0\ref\DrinkShop.DataAccess.dll
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.deps.json
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.runtimeconfig.json
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.AssemblyReference.cache
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfoInputs.cache
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfo.cs
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.dll
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\obj\Debug\net9.0\refint\DrinkShop.DataAccess.dll
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.pdb
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.genruntimeconfig.cache
+D:\DrinkShop Chuẩn 104%\DrinkShop.DataAccess\obj\Debug\net9.0\ref\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.deps.json
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.runtimeconfig.json
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\obj\Debug\net9.0\refint\DrinkShop.DataAccess.dll
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.pdb
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.genruntimeconfig.cache
+C:\Users\Admin\Downloads\DrinkShop Chuẩn 105%\DrinkShop.DataAccess\obj\Debug\net9.0\ref\DrinkShop.DataAccess.dll
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.deps.json
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.runtimeconfig.json
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.AssemblyReference.cache
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfoInputs.cache
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfo.cs
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.dll
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\obj\Debug\net9.0\refint\DrinkShop.DataAccess.dll
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.pdb
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.genruntimeconfig.cache
+D:\DrinkShop Chuẩn 106%\DrinkShop.DataAccess\obj\Debug\net9.0\ref\DrinkShop.DataAccess.dll
+D:\DrinkShop106%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.deps.json
+D:\DrinkShop106%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.runtimeconfig.json
+D:\DrinkShop106%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.dll
+D:\DrinkShop106%\DrinkShop.DataAccess\bin\Debug\net9.0\DrinkShop.DataAccess.pdb
+D:\DrinkShop106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.AssemblyReference.cache
+D:\DrinkShop106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DrinkShop106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfoInputs.cache
+D:\DrinkShop106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.AssemblyInfo.cs
+D:\DrinkShop106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\DrinkShop106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.dll
+D:\DrinkShop106%\DrinkShop.DataAccess\obj\Debug\net9.0\refint\DrinkShop.DataAccess.dll
+D:\DrinkShop106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.pdb
+D:\DrinkShop106%\DrinkShop.DataAccess\obj\Debug\net9.0\DrinkShop.DataAccess.genruntimeconfig.cache
+D:\DrinkShop106%\DrinkShop.DataAccess\obj\Debug\net9.0\ref\DrinkShop.DataAccess.dll

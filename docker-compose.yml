@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  # 1. Database SQL Server
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: drinkshop_db
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=Password123!@# # Đặt mật khẩu mạnh ở đây
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql/data
+      # Tự động chạy file script SQL khởi tạo (nếu bạn có file .sql)
+      # - ./backend/sql_init:/docker-entrypoint-initdb.d 
+
+  # 2. Backend API
+  api:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: drinkshop_api
+    depends_on:
+      - db
+    ports:
+      - "5118:8080" # Map port 5118 của máy chủ vào port 8080 của container
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=CHTH;User Id=sa;Password=Password123!@#;TrustServerCertificate=True;
+      - ASPNETCORE_ENVIRONMENT=Production
+      # Cấu hình CORS cho phép Frontend truy cập
+      - ClientUrl=http://localhost:5173 # Hoặc domain thật khi deploy
+
+  # 3. Frontend React
+  web:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: drinkshop_web
+    ports:
+      - "5173:80" # Map port 5173 của máy chủ vào port 80 của Nginx
+    depends_on:
+      - api
+
+volumes:
+  sql_data:
