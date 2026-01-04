@@ -34,5 +34,12 @@
   "private": true,
   "devDependencies": {
     "expo-module-scripts": "^5.0.8"
+  },
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "build:web": "npx expo export --platform web"
   }
 }

@@ -42,5 +42,17 @@ services:
     depends_on:
       - api
 
+  # 4. Mobile Web (React Native Web)
+  mobile-web:
+    build:
+      context: ./app
+      dockerfile: Dockerfile
+    container_name: drinkshop_mobile_web
+    ports:
+      - "8081:80"  # Chạy ở cổng 8081 để không đụng hàng với Frontend (cổng 5173/80)
+    depends_on:
+      - api
+    restart: always
+
 volumes:
   sql_data:
