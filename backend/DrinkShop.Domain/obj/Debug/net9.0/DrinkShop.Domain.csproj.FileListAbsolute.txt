@@ -32,3 +32,15 @@ C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\Dri
 C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\refint\DrinkShop.Domain.dll
 C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.pdb
 C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\DrinkShop11\DrinkShop.Domain\obj\Debug\net9.0\ref\DrinkShop.Domain.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.deps.json
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\bin\Debug\net9.0\DrinkShop.Domain.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.AssemblyInfoInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.AssemblyInfo.cs
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.sourcelink.json
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\obj\Debug\net9.0\refint\DrinkShop.Domain.dll
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\obj\Debug\net9.0\DrinkShop.Domain.pdb
+C:\Users\baott\OneDrive\Tài liệu\Who_care\flash_4\ky_1\Server\MyApp\backend\DrinkShop.Domain\obj\Debug\net9.0\ref\DrinkShop.Domain.dll

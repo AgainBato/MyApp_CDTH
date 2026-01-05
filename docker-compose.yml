@@ -1,19 +1,23 @@
-version: '3.8'
-
 services:
   # 1. Database SQL Server
   db:
-    image: mcr.microsoft.com/mssql/server:2022-latest
+    image: mcr.microsoft.com/mssql/server:2019-latest
     container_name: drinkshop_db
+    user: root
     environment:
       - ACCEPT_EULA=Y
-      - MSSQL_SA_PASSWORD=Password123!@# # Đặt mật khẩu mạnh ở đây
+      - MSSQL_SA_PASSWORD=Password123!@#
     ports:
       - "1433:1433"
     volumes:
       - sql_data:/var/opt/mssql/data
-      # Tự động chạy file script SQL khởi tạo (nếu bạn có file .sql)
-      # - ./backend/sql_init:/docker-entrypoint-initdb.d 
+    healthcheck:
+      # Sử dụng 127.0.0.1 và user sa chuẩn
+      test: ["CMD-SHELL", "/opt/mssql-tools/bin/sqlcmd -S 127.0.0.1 -U sa -P Password123!@# -Q 'SELECT 1' || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 20s # Cho phép server có 20s khởi động
 
   # 2. Backend API
   api:
@@ -22,34 +26,35 @@ services:
       dockerfile: Dockerfile
     container_name: drinkshop_api
     depends_on:
-      - db
+      db:
+        condition: service_healthy
     ports:
-      - "5118:8080" # Map port 5118 của máy chủ vào port 8080 của container
+      - "5118:8080"
     environment:
+      # ĐÃ SỬA: User Id từ sa1 thành sa
       - ConnectionStrings__DefaultConnection=Server=db;Database=CHTH;User Id=sa;Password=Password123!@#;TrustServerCertificate=True;
       - ASPNETCORE_ENVIRONMENT=Production
-      # Cấu hình CORS cho phép Frontend truy cập
-      - ClientUrl=http://localhost:5173 # Hoặc domain thật khi deploy
+      - ClientUrl=http://localhost:5173
 
-  # 3. Frontend React
+  # 3. Frontend React (Giữ nguyên)
   web:
     build:
       context: ./frontend
       dockerfile: Dockerfile
     container_name: drinkshop_web
     ports:
-      - "5173:80" # Map port 5173 của máy chủ vào port 80 của Nginx
+      - "5173:80"
     depends_on:
       - api
 
-  # 4. Mobile Web (React Native Web)
+  # 4. Mobile Web (React Native Web - Giữ nguyên)
   mobile-web:
     build:
       context: ./app
       dockerfile: Dockerfile
     container_name: drinkshop_mobile_web
     ports:
-      - "8081:80"  # Chạy ở cổng 8081 để không đụng hàng với Frontend (cổng 5173/80)
+      - "8081:80"
     depends_on:
       - api
     restart: always

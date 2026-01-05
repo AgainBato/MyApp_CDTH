@@ -2,25 +2,22 @@ import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
 // ⚠️ Lưu ý: IP này có thể thay đổi nếu bạn tắt mở lại Wifi máy tính
-export const API_URL = "http://172.16.1.57:5118";
+export const API_URL = "http://192.168.100.10:5118";
 
 const api = axios.create({
   baseURL: API_URL,
-  timeout: 10000, // Thêm timeout 10s để app không bị treo nếu mạng lag
+  timeout: 10000,
   headers: {
     "Content-Type": "application/json",
   },
 });
 
-// 👇 1. REQUEST INTERCEPTOR (Gửi đi)
 api.interceptors.request.use(
   async (config) => {
     try {
       const token = await AsyncStorage.getItem("accessToken");
-      
-      // 🔍 Debug: In ra xem có token thật không
+
       if (token) {
-        // console.log("🔑 Token tìm thấy:", token.substring(0, 10) + "..."); // Chỉ in 1 đoạn đầu cho gọn
         config.headers.Authorization = `Bearer ${token}`;
       } else {
         console.log("⚠️ Không tìm thấy Token trong AsyncStorage!");
