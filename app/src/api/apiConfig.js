@@ -1,7 +1,6 @@
 import axios from "axios";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
-// ⚠️ Lưu ý: IP này có thể thay đổi nếu bạn tắt mở lại Wifi máy tính
 export const API_URL = "http://192.168.100.10:5118";
 
 const api = axios.create({
