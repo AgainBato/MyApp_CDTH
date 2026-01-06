@@ -6,18 +6,11 @@ services:
     user: root
     environment:
       - ACCEPT_EULA=Y
-      - MSSQL_SA_PASSWORD=Password123!@#
+      - MSSQL_SA_PASSWORD=Password123
     ports:
-      - "1433:1433"
+      - "1435:1433"
     volumes:
       - sql_data:/var/opt/mssql/data
-    healthcheck:
-      # Sử dụng 127.0.0.1 và user sa chuẩn
-      test: ["CMD-SHELL", "/opt/mssql-tools/bin/sqlcmd -S 127.0.0.1 -U sa -P Password123!@# -Q 'SELECT 1' || exit 1"]
-      interval: 10s
-      timeout: 5s
-      retries: 5
-      start_period: 20s # Cho phép server có 20s khởi động
 
   # 2. Backend API
   api:
@@ -26,13 +19,11 @@ services:
       dockerfile: Dockerfile
     container_name: drinkshop_api
     depends_on:
-      db:
-        condition: service_healthy
+      - db
     ports:
       - "5118:8080"
     environment:
-      # ĐÃ SỬA: User Id từ sa1 thành sa
-      - ConnectionStrings__DefaultConnection=Server=db;Database=CHTH;User Id=sa;Password=Password123!@#;TrustServerCertificate=True;
+      - ConnectionStrings__DefaultConnection=Server=db;Database=CHTH;User Id=sa;Password='Password123';TrustServerCertificate=True;
       - ASPNETCORE_ENVIRONMENT=Production
       - ClientUrl=http://localhost:5173
 
