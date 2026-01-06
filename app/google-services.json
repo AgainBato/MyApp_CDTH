@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081244126254",
+    "project_id": "drink-shop-app-98ac1-4f552",
+    "storage_bucket": "drink-shop-app-98ac1-4f552.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081244126254:android:6b12620125d22d3fc2a3bf",
+        "android_client_info": {
+          "package_name": "com.hoangnhat203.drinkshopapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx3wX_u7xY2Ym98lIP2fOgT5lmN5xTvF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

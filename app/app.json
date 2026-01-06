@@ -22,7 +22,9 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.hoangnhat203.drinkshopapp",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -35,6 +37,12 @@
           "iosUrlScheme": "com.googleusercontent.apps.22510198918-9tfpg1v7kad0g7qjtiess2domd71l98h"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "256a054e-e340-45b3-94bd-58c1397fc77c"
+      }
+    }
+    
   }
 }
